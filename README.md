@@ -11,7 +11,7 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/PRANAVAN12/PRANAVAN12/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/PRANAVAN12/PRANAVAN12/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
@@ -23,16 +23,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 </br>
-
-📊 **This Week I Spent My Time On Learning:**
-<!--START_SECTION:waka-->
-```text
-Java   23 hrs 5 mins   ███████████████████████░░   92.35 % 
-Vue   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-React          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
