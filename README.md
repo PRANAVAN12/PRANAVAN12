@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pranavan28/)
 
 
-### Glad to see you here! &nbsp; ![]
+### Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
